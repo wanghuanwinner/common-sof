@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.example</groupId>
+    <artifactId>common-sof</artifactId>
+    <version>1.0.1-SNAPSHOT</version>
+    <properties>
+        <unique.common.version>1.0.0-SNAPSHOT</unique.common.version>
+        <unique.common.sof.version>1.0.0-SNAPSHOT</unique.common.sof.version>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>common</artifactId>
+            <version>${unique.common.version}</version>
+        </dependency>
+    </dependencies>
+</project>
